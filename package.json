@@ -1,0 +1,40 @@
+{
+  "name": "wordpress-vscode-extensionpack",
+  "displayName": "Wordpress VS Code Extension Pack",
+  "description": "A collection of extensions for working with Wordpress sites in VS Code",
+  "author": {
+    "name": "jpagano"
+  },
+  "version": "1.0.0",
+  "publisher": "jpagano",
+  "bugs": {
+    "url": "https://github.com/jpagano/wordpress-vscode-extensionpack/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpagano/wordpress-vscode-extensionpack.git"
+  },
+  "homepage": "https://github.com/jpagano/wordpress-vscode-extensionpack/README.md",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0073AA",
+    "theme": "dark"
+  },
+  "extensionDependencies": [
+    "felixfbecker.php-pack",
+    "tungvn.wordpress-snippet",
+    "anthonydiametrix.ACF-Snippet",
+    "claudiosanches.woocommerce",
+    "neilbrayfield.php-docblocker",
+    "ikappas.phpcs",
+    "claudiosanches.wpcs-whitelist-flags",
+    "humao.rest-client"
+  ]
+}
