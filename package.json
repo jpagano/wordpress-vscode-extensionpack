@@ -29,7 +29,7 @@
   },
   "extensionDependencies": [
     "felixfbecker.php-pack",
-    "tungvn.wordpress-snippet",
+    "wordpresstoolbox.wordpress-toolbox",
     "anthonydiametrix.ACF-Snippet",
     "claudiosanches.woocommerce",
     "neilbrayfield.php-docblocker",
