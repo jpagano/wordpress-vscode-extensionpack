@@ -1,5 +1,5 @@
-# Wordpress VSCode Extension Pack
-A collection of extensions for working with Wordpress sites in VSCode
+# WordPress VSCode Extension Pack
+A collection of extensions for working with WordPress sites in VSCode
 
 ### Extensions included
 * [PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack) - Includes the most important extensions to get you started with PHP development in Visual Studio Code

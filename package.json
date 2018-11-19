@@ -1,7 +1,7 @@
 {
   "name": "wordpress-vscode-extensionpack",
-  "displayName": "Wordpress VS Code Extension Pack",
-  "description": "A collection of extensions for working with Wordpress sites in VS Code",
+  "displayName": "WordPress VS Code Extension Pack",
+  "description": "A collection of extensions for working with WordPress sites in VS Code",
   "author": {
     "name": "jpagano"
   },
