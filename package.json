@@ -35,6 +35,7 @@
     "neilbrayfield.php-docblocker",
     "ikappas.phpcs",
     "claudiosanches.wpcs-whitelist-flags",
+    "johnbillion.vscode-wordpress-hooks",
     "humao.rest-client"
   ]
 }
