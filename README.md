@@ -5,6 +5,7 @@ A collection of extensions for working with WordPress sites in VSCode
 * [PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-pack) - Includes the most important extensions to get you started with PHP development in Visual Studio Code
 * [WordPress Toolbox](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox) - Snippets for every WordPress function, class and constant, complete with argument type hints and brief descriptions. **WordPress API Support: 4.9.4**
 * [Wordpress Snippet](https://marketplace.visualstudio.com/items?itemName=tungvn.wordpress-snippet) - Wordpress Snippets
+* [Autocomplete WordPress Hooks](https://marketplace.visualstudio.com/items?itemName=johnbillion.vscode-wordpress-hooks) - Autocomplete support for WordPress action and filter names, and the corresponding callback function
 * [ACF-Snippet](https://marketplace.visualstudio.com/items?itemName=anthonydiametrix.ACF-Snippet) - Advanced Custom Field Snippets
 * [WooCommerce - Snippets & autocomplete](https://marketplace.visualstudio.com/items?itemName=claudiosanches.woocommerce) - A collection of WooCommerce snippets and autocompletions
 * [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker) - A simple, dependency free PHP specific DocBlocking package
